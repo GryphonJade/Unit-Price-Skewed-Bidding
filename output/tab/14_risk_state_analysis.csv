@@ -1,0 +1,5 @@
+Mechanism,N_Auctions,Mean_Entry,Mean_Winning_Bid,Mean_Final_Payment,Std_Final_Payment,Mean_Abs_Overrun
+UP_Low,107,3.21495327102804,NaN,NaN,NaN,NaN
+UP_High,93,3.17204301075269,NaN,NaN,NaN,NaN
+FP_Low,107,2.04672897196262,NaN,NaN,NaN,0
+FP_High,93,1.72043010752688,NaN,NaN,NaN,0

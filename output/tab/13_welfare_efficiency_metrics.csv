@@ -1,0 +1,3 @@
+Mechanism,Mean_Payment,Payment_CV,Mean_Entry_Rate,Mean_Abs_Overrun,Overrun_Risk,Mean_Winner_Score
+UP,NaN,NaN,0.573333333333333,NaN,NaN,NaN
+FP,NaN,NaN,0.358333333333333,0,0,NaN

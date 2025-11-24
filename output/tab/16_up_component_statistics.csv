@@ -1,0 +1,4 @@
+Risk_State,Mean_s,Std_s,Mean_b0,Std_b0,Mean_b2,Std_b2,Corr_b0_b2
+Low,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+High,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Pooled,NaN,NaN,NaN,NaN,NaN,NaN,NaN

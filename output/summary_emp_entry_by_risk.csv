@@ -1,0 +1,3 @@
+risk,GroupCount,mean_emp_entry_rate,std_emp_entry_rate,mean_delta,std_delta
+H,90,1,0,0.999980439676904,5.58221405062002e-16
+L,110,1,0,0.999986161722689,1.11530416341253e-16

@@ -1,0 +1,2 @@
+risk,GroupCount,mean_n,median_n,std_n,mean_overrun,mean_win_score,mean_pay_final
+ALL,200,8.555,9,0.706733586161748,-0.000799802851613581,0.115420651351819,0.114620848500205
